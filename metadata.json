@@ -1,0 +1,6 @@
+{
+  "name": "English Learning",
+  "description": "English vocabulary and practical communication learning app with Hindi pronunciation guides, dynamic 10-word levels, Text-to-Speech audio, 3-strike mastery tests, and offline progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
